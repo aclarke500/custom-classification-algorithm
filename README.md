@@ -1,7 +1,6 @@
 # custom-classification-algorithm
 
 <body>
-  
     <h2>Purpose: Classify Categorical Data using Normally Distributed Factors</h2>
     <h3>Background: What is a p-value?</h3>
     <p>As you may be aware, data tends to follow a normal distribution. This allows us to make statements about/with the data. One of the ways we can do this is with probability.</p>
