@@ -1,6 +1,6 @@
 # custom-classification-algorithm
 
-
+<body>
     <h1> Classification Algorithim </h1>
     <h2>Purpose: Classify Categorical Data using Normally Distributed Factors</h2>
     <h3>Background: What is a p-value?</h3>
@@ -44,4 +44,4 @@
         <p>Each bar represents the number of wrong guesses in addition to the accuracy. 100 is 0, 96.7 1, and so forth.</p>
         <p>The only confound that I can think of is with how the testing data is selected. I chose 20% of the data to be testing based on random indices (0-148) as opposed to each group being 20% (so 20% of setosa, virginica, versiocolor). This could possibly be more accurate. As well, doing analysis on the accuracy for each factor as opposed to the whole could give a better picture as well.</p>
 
-
+</body>
