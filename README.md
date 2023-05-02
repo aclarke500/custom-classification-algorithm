@@ -18,7 +18,7 @@
         For some reason assume we have a data set of data scientists and police officers max bench. If we have someone named Charlie who's max bench is 85lbs, do you think they are a data scientist or police officer? 
     </p>
     <a href="https://ibb.co/KFNhJkJ"><img src="https://i.ibb.co/72gCq5q/bench.png" alt="bench" border="0"></a>
-    <p>Judging by the graph, we can predict with reasonably accuracy that Charlie knows a lot more about Excel than traffic laws. </p>
+    <p>Judging by the graph, we can predict with reasonable accuracy that Charlie knows a lot more about Excel than traffic laws. </p>
     <p>What if we add a third career in there? Say highschool gym teachers. Now we want to figure out Carlos' job.</p>
     <a href="https://ibb.co/tBrgKMf"><img src="https://i.ibb.co/qBQKjMG/gymbench.png" alt="gymbench" border="0"></a>
     <p>This creates an interesting problem, as using this metric any yolked gym teacher (yolked gym teacher meaning can bench 150 or more) will be incorrectly classified as a police officer. The solution?
