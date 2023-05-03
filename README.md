@@ -12,7 +12,7 @@
         <li>This statement is only about drawing from our distribution, it does not mean definitively that it has a certain probability of coming from the data set. </li>
         <li>We can only be as confident with this statement as we are that our sample is reflective of the population.</li>
     </ul>
-    <p>Although we cannot say for certain whether something comes from a data set without actually knowing, using this method we can get pretty good at guessing. Using a t-test, we can get the probability of a sample being drawn from a distribution. This is got be taking the area under the curve from our data point to the closest tail of the distribution. After this calculus wizardy is performed, we are left with the probability or p-value.</p>
+    <p>Although we cannot say for certain whether something comes from a data set without actually knowing, using this method we can get pretty good at guessing. Using a t-test, we can get the probability of a sample being drawn from a distribution. This is produced by taking the area under the curve from our data point to the closest tail of the distribution. After this calculus wizardy is performed, we are left with the probability or p-value.</p>
     <h2>The Algorithim</h2>
     <p>If we are trying to classify data points into a category, we can look at the normal distributions and see which one would be more likely to contain a certain element. Let's say we are given someones 1 rep maximum bench press in pounds, and we want to predict their profession.
         For some reason assume we have a data set of data scientists and police officers max bench. If we have someone named Charlie who's max bench is 85lbs, do you think they are a data scientist or police officer? 
